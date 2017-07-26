@@ -12,7 +12,9 @@ Ejemplo de clase, a modo de tutorial, que cubre:
 * Uso de un framework backend moderno -> NodeJS
 * Configuración de ambientes: Desarrollo, Pruebas y Producción.
 
-# Requisitos funcionales
+# Análisis
+
+## Requisitos funcionales:
 
 1. Crear Libros electrónicos (ebooks), requiere autenticación.
 2. Modificar Libros electrónicos, requiere autenticación.
@@ -22,3 +24,17 @@ Ejemplo de clase, a modo de tutorial, que cubre:
 6. Autoregistrar usuarios.
 7. Login de usuarios.
 8. Logout de usuarios.
+
+## Definición de tecnología de desarrollo y ejecución para la aplicación:
+
+Lenguaje de Programación: Javascript
+Framework web backend: NodeJS - Express
+Framework web frontend: no se usa - se utilizará Templates HTML para Vista (V)
+Base de datos: MongoDB
+Web App Server: NodeJS 
+Web Server: NGINX
+
+## Ambiente de Desarrollo, Pruebas y Producción:
+
+## Desarrollo:
+
