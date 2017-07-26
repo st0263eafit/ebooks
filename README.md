@@ -27,12 +27,12 @@ Ejemplo de clase, a modo de tutorial, que cubre:
 
 ## Definición de tecnología de desarrollo y ejecución para la aplicación:
 
-Lenguaje de Programación: Javascript
-Framework web backend: NodeJS - Express
-Framework web frontend: no se usa - se utilizará Templates HTML para Vista (V)
-Base de datos: MongoDB
-Web App Server: NodeJS 
-Web Server: NGINX
+* Lenguaje de Programación: Javascript
+* Framework web backend: NodeJS - Express
+* Framework web frontend: no se usa - se utilizará Templates HTML para Vista (V)
+* Base de datos: MongoDB
+* Web App Server: NodeJS 
+* Web Server: NGINX
 
 ## Ambiente de Desarrollo, Pruebas y Producción:
 
