@@ -2,7 +2,7 @@
 
 By: Edwin Montoya Munera - emontoya@eafit.educo
 
-# Descripción de aplicación
+# 1. Descripción de aplicación
 
 Aplicación web que permite gestionar libros / documentos electrónicos.
 
@@ -12,9 +12,9 @@ Ejemplo de clase, a modo de tutorial, que cubre:
 * Uso de un framework backend moderno -> NodeJS
 * Configuración de ambientes: Desarrollo, Pruebas y Producción.
 
-# Análisis
+# 2. Análisis
 
-## Requisitos funcionales:
+## 2.1 Requisitos funcionales:
 
 1. Crear Libros electrónicos (ebooks), requiere autenticación.
 2. Modificar Libros electrónicos, requiere autenticación.
@@ -25,7 +25,7 @@ Ejemplo de clase, a modo de tutorial, que cubre:
 7. Login de usuarios.
 8. Logout de usuarios.
 
-## Definición de tecnología de desarrollo y ejecución para la aplicación:
+## 2.2 Definición de tecnología de desarrollo y ejecución para la aplicación:
 
 * Lenguaje de Programación: Javascript
 * Framework web backend: NodeJS - Express
@@ -37,4 +37,11 @@ Ejemplo de clase, a modo de tutorial, que cubre:
 ## Ambiente de Desarrollo, Pruebas y Producción:
 
 ## Desarrollo:
+
+# 3. Diseño:
+
+# 4. Desarrollo:
+
+# 5. Implementación o Despliegue:
+
 
